@@ -1,4 +1,4 @@
-[![MasterHead](https://img.magnific.com/free-vector/development-typographic-header-presenting-content-web-pages-website-layout-composition-color-development-idea-computer-technology-flat-vector-illustration_613284-2493.jpg?semt=ais_hybrid&w=740&q=80)]
+
 <h1 align="center">Hi 👋, I'm Jatin Singh</h1>
 <h3 align="center">$ ./developer --stack "Full Stack" --mode "Building"</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
