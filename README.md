@@ -4,8 +4,6 @@
 <h3>🚀 About Me</h3>
 <p> I'm a passionate <strong>Web Developer</strong> focused on building fast, scalable, and modern digital products. I help businesses and startups turn ideas into reliable web solutions — from clean and responsive frontend interfaces to robust backend systems. I enjoy solving real-world problems, writing clean and maintainable code, and building applications that perform well and scale with growing needs. </p>
 
-
-
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
@@ -43,14 +41,36 @@
 
 </p>
 
+<h2>🌟 What I Do</h2>
+<ul>
+  <li>Create responsive, mobile-first websites & apps</li>
+  <li>Build APIs & backend systems</li>
+  <li>Integrate smooth animations & motion</li>
+  <li>Optimize for performance & scalability</li>
+</ul>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanshu2025&show_icons=true&locale=en&layout=compact" alt="shivanshu2025" /></p>
+<h3 align="center">📊 Most Used Languages</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivanshu2025&show_icons=true&locale=en" alt="shivanshu2025" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivanshu2025&" alt="shivanshu2025" /></p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jatin singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jatin singh" height="30" width="40" /></a>
-<a href="https://instagram.com/__codeno.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__codeno.in" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanshu2025&show_icons=true&locale=en&layout=compact" alt="shivanshu2025" />
 </p>
+
+<h3 align="center">🤝 Connect with me:</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/jatin-singh" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="Jatin Singh LinkedIn"
+    />
+  </a>
+
+  <a href="https://instagram.com/__codeno.in" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Jatin Singh Instagram"
+    />
+  </a>
+</p>
+<h2> </h2>
+<h3 align="center">⚡ “Turning ideas into scalable solutions, one line of code at a time.”</h3>
